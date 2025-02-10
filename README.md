@@ -1,6 +1,6 @@
 # OptimizerV17.4
 
-[16.7] - 2024-08-18
+[17.4] - 2025-02-05
 
 New: Disable Edge and Chrome telemetry options now extends Manifest v2 support
 
